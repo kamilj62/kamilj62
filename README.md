@@ -74,7 +74,7 @@ Interview Kickstart curriculum: Supervised & Unsupervised Learning · Deep Learn
 
 
 📬 Get In Touch
-Show Image
-Show Image
+[Show Image](https://github.com/kamilj62)
+mailto:kamilj@umich.edu
 
 "Build things that work in the real world, not just in notebooks."
